@@ -19,7 +19,7 @@ html {
 }
 
 header {
-     background-image: url(img/1366_2000.jpg);
+    background-image: url(img/1366_2000.jpg);
     background-position: center;
     background-size:cover;
     height: 100vh;
