@@ -28,3 +28,13 @@ h2{
     text-align: center;
     color: #1683e2;
 }
+.boton{
+  background-image:url(img/cait.png);
+  background-position: center;
+  height: 100px;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+}
