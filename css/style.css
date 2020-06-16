@@ -28,8 +28,48 @@ h2{
     text-align: center;
     color: #1683e2;
 }
-.boton{
+.cait{
   background-image:url(img/cait.png);
+  background-position: center;
+  height: 100px;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+}
+.Aphelios{
+  background-image:url(img/Aphelios.png);
+  background-position: center;
+  height: 100px;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+}
+.ashe{
+  background-image:url(img/Ashe.png);
+  background-position: center;
+  height: 100px;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+}
+.draven{
+  background-image:url(img/Draven.png);
+  background-position: center;
+  height: 100px;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+}
+.ezreal{
+  background-image:url(img/Ezreal.png);
   background-position: center;
   height: 100px;
   color: white;
