@@ -18,10 +18,13 @@ html {
     margin: 0 auto;
 }
 
-header {
+header{
     background-image: url(img/1366_2000.jpg);
     background-position: center;
     background-size:cover;
     height: 100vh;
 }
-    
+h2{
+    text-align: center;
+    color: #1683e2;
+}
