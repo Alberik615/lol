@@ -5,7 +5,7 @@
 }
 
 html {
-    background-color: #ffffff;
+    background-color: #02310f;
     color: rgb(0, 0, 0);
     font-family:sans-serif;
     font-weight: 300;
@@ -13,68 +13,151 @@ html {
     text-rendering: optimizeLegibility;
 }
 
-.row{
-    max-width: 1140px;
-    margin: 0 auto;
+.row {
+    margin: 0 100px;
+    max-width: inherit;
 }
 
-header{
-    background-image: url(img/1366_2000.jpg);
-    background-position: center;
-    background-size:cover;
-    height: 100vh;
-}
 h2{
     text-align: center;
-    color: #1683e2;
+    color: #ebf1f7;
 }
+h3{
+    text-align: center;
+    color: #d6810f;
+}
+/* ------------ADCS-------------- */
 .cait{
   background-image:url(img/cait.png);
   background-position: center;
   height: 100px;
-  color: white;
+  width: 100px;
   padding: 15px 32px;
-  text-align: center;
-  text-decoration: none;
-  font-size: 16px;
 }
 .Aphelios{
   background-image:url(img/Aphelios.png);
   background-position: center;
   height: 100px;
-  color: white;
+  width: 100px;
   padding: 15px 32px;
-  text-align: center;
-  text-decoration: none;
-  font-size: 16px;
 }
 .ashe{
   background-image:url(img/Ashe.png);
   background-position: center;
   height: 100px;
-  color: white;
   padding: 15px 32px;
-  text-align: center;
-  text-decoration: none;
-  font-size: 16px;
+  width: 100px;
+
 }
 .draven{
   background-image:url(img/Draven.png);
   background-position: center;
+  width: 100px;
   height: 100px;
-  color: white;
   padding: 15px 32px;
-  text-align: center;
-  text-decoration: none;
-  font-size: 16px;
 }
 .ezreal{
   background-image:url(img/Ezreal.png);
   background-position: center;
   height: 100px;
-  color: white;
+  width: 100px;
   padding: 15px 32px;
-  text-align: center;
-  text-decoration: none;
-  font-size: 16px;
+}
+.twitch{
+  background-image:url(img/Twitch.png);
+  background-position: center;
+  height: 100px;
+  width: 100px;
+  padding: 15px 32px;
+}
+.yasuo{
+  background-image:url(img/Yasuo.png);
+  background-position: center;
+  height: 100px;
+  width: 100px;
+  padding: 15px 32px;
+}
+.xayah{
+  background-image:url(img/Xayah.png);
+  background-position: center;
+  height: 100px;
+  width: 100px;
+  padding: 15px 32px;
+}
+.vayne{
+  background-image:url(img/Vayne.png);
+  background-position: center;
+  height: 100px;
+  width: 100px;
+  padding: 15px 32px;
+}
+.varus{
+  background-image:url(img/Varus.png);
+  background-position: center;
+  height: 100px;
+  width: 100px;
+  padding: 15px 32px;
+}
+.tristana{
+  background-image:url(img/Tristana.png);
+  background-position: center;
+  height: 100px;
+  width: 100px;
+  padding: 15px 32px;
+}
+.jhin{
+  background-image:url(img/Jhin.png);
+  background-position: center;
+  height: 100px;
+  width: 100px;
+  padding: 15px 32px;
+}
+.jinx{
+  background-image:url(img/Jinx.png);
+  background-position: center;
+  height: 100px;
+  width: 100px;
+  padding: 15px 32px;
+}
+.kaisa{
+  background-image:url(img/Kaisa.png);
+  background-position: center;
+  height: 100px;
+  width: 100px;
+  padding: 15px 32px;
+}
+.kalista{
+  background-image:url(img/Kalista.png);
+  background-position: center;
+  height: 100px;
+  width: 100px;
+  padding: 15px 32px;
+}
+.miss{
+  background-image:url(img/MissFortune.png);
+  background-position: center;
+  height: 100px;
+  width: 100px;
+  padding: 15px 32px;
+}
+.kog{
+  background-image:url(img/KogMaw.png);
+  background-position: center;
+  height: 100px;
+  width: 100px;
+  padding: 15px 32px;
+}
+.lucian{
+  background-image:url(img/Lucian.png);
+  background-position: center;
+  height: 100px;
+  width: 100px;
+  padding: 15px 32px;
+}
+.sivir{
+  background-image:url(img/Sivir.png);
+  background-position: center;
+  height: 100px;
+  width: 100px;
+  padding: 15px 32px;
 }
