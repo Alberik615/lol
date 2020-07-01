@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    background-color: #02310f;
+    color: rgb(0, 0, 0);
+    font-family:sans-serif;
+    font-weight: 300;
+    font-size: 20px;
+    text-rendering: optimizeLegibility;
+}
+.row {
+    margin: 0 100px;
+    max-width: inherit;
+}
+.img-cait{
+    margin-top: 100px;
+}
+/* GRID */
+#grid-col {
+  display: grid;
+  grid-template-columns: repeat(19, auto);
+  width: 75%;
+}
+div.cell {
+  background: #ffffff;
+  border: 2px solid #aaa;
+  text-align: center;
+  padding: 
+}
