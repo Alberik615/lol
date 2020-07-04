@@ -5,24 +5,36 @@
 }
 
 html {
-    background-color: #02310f;
     color: rgb(0, 0, 0);
     font-family:sans-serif;
     font-weight: 300;
     font-size: 20px;
     text-rendering: optimizeLegibility;
+    background-image: linear-gradient(rgba(34, 33, 33, 0.7),rgba(0, 0, 0, 0.7)),url(img/55188be81fb00d10b6ea627a799c1fe1.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;    
 }
 .row {
     margin: 0 100px;
     max-width: inherit;
 }
-.img-cait{
-    margin-top: 100px;
-}
 /* table */
 table, th, td {
-  border: 1px solid black;
+  border: 2px solid #959595;
+  margin-top: 20px;
 }
 th,td{
     width: 50px;
+    color: #fa930a;
+}
+.counters{
+    margin-top: 50px;
+    text-align: center;
+}
+h3{
+    text-align: center;
+    color: azure;
+    margin-top: 40px;
+    margin-bottom: 40px;
 }
