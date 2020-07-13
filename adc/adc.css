@@ -12,7 +12,9 @@ html {
     background-image: linear-gradient(rgba(34, 33, 33, 0.7),rgba(0, 0, 0, 0.7)),url(img/fondos/cait.jpg);
     background-size: cover;
     background-position: center;
-    height: 100vh;    
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 .row {
     margin: 0 100px;
