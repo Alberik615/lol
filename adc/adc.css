@@ -51,11 +51,12 @@ h3{
 }
 .runas{
     color: antiquewhite;
-    width: 412px;
+    width: 1000px;
     margin: auto;
 }
 .runas img{
     height: 60px;
     width: 60px;
     display: block;
+    padding: 5px;
 }
